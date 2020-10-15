@@ -84,7 +84,7 @@ Gatsby is a modern web framework for blazing fast websites.
 
 ## What’s In This Document
 
-- [Get Up and Running in 5 Minutes](#-get-up-and-running-in-5-minutes)
+- [Get Up and start Running in 5 Minutes](#-get-up-and-running-in-5-minutes)
 - [Learning Gatsby](#-learning-gatsby)
 - [Migration Guides](#-migration-guides)
 - [How to Contribute](#-how-to-contribute)
